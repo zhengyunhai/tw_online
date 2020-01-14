@@ -1,0 +1,5 @@
+﻿  logfunc.cpp
+  proc.cpp
+  正在生成代码...
+C:\Users\komiya\Documents\VisualStudioProg\TW\TW_server\proc.cpp(1044): warning C4715: “proc”: 不是所有的控件路径都返回值
+  TW_server.vcxproj -> C:\Users\komiya\Documents\VisualStudioProg\TW\Debug\TW_server.exe
